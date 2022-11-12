@@ -9,5 +9,5 @@
 
 
 ## 🌐Socials
-[![Twitter](https://img.shields.io/badge/Instagram-%231DA1F2.svg?logo=Instagram&logoColor=white)](https://instagram.com/ahmadrezabaqerzadeh) 
+[![Twitter](https://img.shields.io/badge/Instagram-%231DA1F2.svg?logo=Instagram&logoColor=white)](https://instagram.com/ahmadrezabaqerzade) 
 
